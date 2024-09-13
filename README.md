@@ -1,6 +1,7 @@
 # Writing a Function in JavaScript
 
-Writing a Function in JavaScript
+![some alt test](./assets/altumcode.jpg)
+
 
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
@@ -106,7 +107,6 @@ const addNums = (numA, numB) => {
 
 For more information on functions and how they are used in JS, check out the MDN docs. 
 
-![some alt test](./assets/altumcode.jpg)
 
 [google] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
