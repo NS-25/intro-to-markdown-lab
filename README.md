@@ -1,5 +1,6 @@
 # Writing a Function in JavaScript
 
+
 ![some alt test](./assets/altumcode.jpg)
 
 | Name | Age | Title |
@@ -9,7 +10,7 @@
 
 
 - [x] HW
-- [ ] Laundry
+- [x] Laundry
 - [ ] Rest
 
 This text has been ~~redacted~~. 
